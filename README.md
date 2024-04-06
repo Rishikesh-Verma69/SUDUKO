@@ -1,1 +1,1 @@
-# PRODIGY_SD_04
+# SUDUKO Solver: a simple program where the input SUDUKO values are given and the solved version is presented 
